@@ -3,8 +3,10 @@ public class Main {
 //        FirstTask firstTask = new FirstTask();
 //        firstTask.nameOutput();
 
-        SecondTask secondTask = new SecondTask();
-        secondTask.goodTime();
+//        SecondTask secondTask = new SecondTask();
+//        secondTask.goodTime();
+        ThirdTask thirdTask = new ThirdTask();
+        thirdTask.getMax();
 
     }
 

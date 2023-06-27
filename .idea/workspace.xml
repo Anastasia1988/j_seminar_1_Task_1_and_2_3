@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bf67df4-09be-4a41-a289-6db8292f09f7" name="Changes" comment="">
+    <list default="true" id="6bf67df4-09be-4a41-a289-6db8292f09f7" name="Changes" comment="Task 1 and 2 java">
+      <change afterPath="$PROJECT_DIR$/src/ThirdTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,11 +148,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687718478494</updated>
-      <workItem from="1687718479346" duration="12201000" />
+      <workItem from="1687718479346" duration="15884000" />
     </task>
+    <task id="LOCAL-00001" summary="Task 1 and 2 java">
+      <option name="closed" value="true" />
+      <created>1687893470219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687893470219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1 and 2 java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1 and 2 java" />
   </component>
 </project>
